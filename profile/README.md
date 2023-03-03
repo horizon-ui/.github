@@ -5,4 +5,4 @@
 
 </p>
 
-More details on [Horizon's website](https://horizon-ui.com/?ref=github-org).
+Learn more details on [Horizon website](https://horizon-ui.com/?ref=github-org).
